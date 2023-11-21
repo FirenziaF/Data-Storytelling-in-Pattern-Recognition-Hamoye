@@ -1,5 +1,5 @@
 ## African Agricultural Symphony ##
-![alt text](https://media.citizen.co.za/wp-content/uploads/2022/08/food-basket-price-cost-of-living-e1664540712807.jpg)
+![alt text](https://b1908123.smushcdn.com/1908123/wp-content/uploads/2022/03/South-Africa-exports.jpg?lossy=2&strip=1&webp=1)
 
 Welcome to the African Agricultural Symphony, a comprehensive exploration of the agricultural landscape across the African continent from 2004 to 2013. This repository encapsulates a captivating tale of growth, resilience, and the evolving dynamics of food production and supply.
 
