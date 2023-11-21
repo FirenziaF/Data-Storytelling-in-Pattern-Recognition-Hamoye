@@ -1,4 +1,4 @@
-**African Agricultural Symphony**
+## African Agricultural Symphony ##
 
 Welcome to the African Agricultural Symphony, a comprehensive exploration of the agricultural landscape across the African continent from 2004 to 2013. This repository encapsulates a captivating tale of growth, resilience, and the evolving dynamics of food production and supply.
 
